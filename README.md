@@ -1,4 +1,6 @@
 # Platform Coop Toolkit
 
-kadsjfñlkaj
+Purpose: To build a toolkit that supports people creating or refining platform coops.
+
+
 
